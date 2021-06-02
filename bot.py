@@ -1,4 +1,3 @@
-from asyncio.windows_events import CONNECT_PIPE_MAX_DELAY, NULL
 import logging
 import asyncio
 from os import name
