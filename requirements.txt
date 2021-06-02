@@ -16,4 +16,5 @@ requests==2.25.1
 setuptools==49.2.1
 six==1.16.0
 sql==0.4.0
-SQLAlchemy==1.4.7
+SQLAlchemy==1.4.6
+Deprecated==1.2.12
